@@ -1,0 +1,25 @@
+List of Experiments:
+1. Perform encryption, decryption using the following substitution techniques
+    a. Ceaser cipher,
+    b. playfair cipher
+    c. Hill Cipher
+    d. Vigenere cipher
+2. Perform encryption and decryption using following transposition techniques
+    a. Rail fence
+    b. row and Column Transformation
+3. Implementation of Euclidean and Extended Euclidean Algorithm
+4. Implementation of Chinese Remainder Theorem (CRT)
+5. Apply DES algorithm for practical applications
+6. Apply AES algorithm for practical applications
+7. Implementation of RSA Algorithm
+8. Implement the Diffie-Hellman Key Exchange algorithm for a given problem
+
+
+![alt text](<WhatsApp Image 2024-09-17 at 09.50.25_419df1f8.jpg>)
+
+
+9. Calculate the message digest of a text using the SHA-1 algorithm
+10. Implement the SIGNATURE SCHEME – Digital Signature Standard
+11. Demonstration of SSL using Wireshark
+12. Demonstrate intrusion detection system (ids) using any tool eg. Snort or any other s/w
+13. Exploring a Vulnerability Assessment Tool
